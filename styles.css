@@ -1,0 +1,45 @@
+header {
+    background-color:#43D986;
+    padding-left: 20px;
+    font-family: Calibri;
+    line-height: 110%;
+    color: #D95043;    
+}
+
+h1 {
+    font-size:270%;
+}
+
+h3 {
+    font-size: 190%;
+}
+
+body {
+    background-color: blanchedalmond;
+    width: 1200px;
+    margin: auto;
+    margin-bottom: 10%;
+}
+
+section {
+    font-family: Georgia;
+    font-size: 130%;
+    text-align: center;
+    margin-top: 3%;
+    padding-left: 18%;
+    padding-right: 18%;
+}
+
+.button {
+    border-radius: 25px;
+    background-color: #DF8F88;
+    font-family: Calibri;
+    font-size: large;
+    padding: 10px; 
+}
+
+#question {
+    font-family: Calibri;
+    font-size: x-large;
+}
+
